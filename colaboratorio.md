@@ -1,1 +1,1 @@
-<img width="612" height="617" alt="image" src="https://github.com/user-attachments/assets/141639da-8a1a-4da2-bab2-f082b15b4caf" />
+![Colab tyhm](https://github.com/user-attachments/assets/7da931c1-3c7e-4eed-8a67-c2ccef19bfab)
